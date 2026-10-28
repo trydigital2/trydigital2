@@ -2,20 +2,20 @@
 
   <!-- Dynamic Typing SVG Header -->
   <a href="https://github.com/trydigital2">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Trydigital+%F0%9F%91%8B;React+Native+%26+Flutter+Specialist;Mobile+Software+Architect;Building+Fintech%2C+Health+%26+Real+Estate+Apps;Cross-Platform+TypeScript+%26+Dart+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Trydigital+%F0%9F%91%8B;Flutter+(Dart)+%26+React+Native+(TS)+Specialist;Senior+Cross-Platform+Mobile+Architect;Building+Fintech%2C+Zen+Wellness+%26+Real+Estate+Apps;Clean+Architecture+%26+High-Performance+Engineering" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <strong>Senior Cross-Platform Mobile Engineer & Application Architect</strong><br>
-    Crafting high-performance, native-grade applications with <strong>React Native (TypeScript)</strong> & <strong>Flutter (Dart)</strong>.
+    Crafting high-performance, native-grade applications with <strong>Flutter (Dart)</strong> & <strong>React Native (TypeScript)</strong>.
   </p>
 
   <!-- Quick Badges -->
   <p align="center">
     <a href="mailto:developer.tdsl2@gmail.com"><img src="https://img.shields.io/badge/Email-developer.tdsl2%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <img src="https://img.shields.io/badge/Location-Remote%20%2F%20India-007ACC?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/Focus-Mobile%20%7C%20RN%20%26%20Flutter-10B981?style=for-the-badge&logo=android&logoColor=white" alt="Focus" />
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-4F46E5?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Ecosystem-Flutter%20%7C%20React%20Native-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Ecosystem" />
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-10B981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
   </p>
 
 </div>
@@ -24,12 +24,12 @@
 
 ### 🚀 About Me
 
-I am a product-focused mobile software engineer passionate about building fluid, commercially viable mobile applications. My expertise spans the complete cross-platform mobile ecosystem—mastering both **React Native (TypeScript)** and **Flutter (Dart)** to architect apps that deliver 60fps animations, intuitive UI, robust offline caching, and rock-solid state management.
+I am a product-focused mobile software engineer passionate about building fluid, commercially viable mobile applications. My expertise spans the complete cross-platform mobile ecosystem—mastering both **Flutter (Dart)** and **React Native (TypeScript)** to architect apps that deliver 60fps animations, intuitive UI, robust offline caching, and rock-solid state management.
 
-- 📱 **Mobile Specialization:** Cross-platform iOS & Android development with **React Native (Expo / CLI)** and **Flutter (Dart)**.
-- 🛠️ **State Management:** Redux Toolkit, Context API, BLoC, Provider, and custom reactive hooks.
-- 📐 **Domain Expertise:** Personal Finance (sub-penny integer math), Health & Telemetry, Real Estate Mortgages & ROI engines.
-- 🧪 **Testing & Quality:** Strict typing, TDD, automated Jest testing suites, and widget/component isolation.
+- 📱 **Mobile Specialization:** Cross-platform iOS & Android development with **Flutter (Dart)** and **React Native (Expo / CLI)**.
+- 🛠️ **State Management:** BLoC, GetX, Provider, Redux Toolkit, Context API, and reactive streams.
+- 📐 **Domain Expertise:** Mindful Fitness & Wellness (ZenFit), Personal Finance & Ledger Math (PennyWise), Real Estate & Mortgages (EstateEase).
+- 🧪 **Testing & Quality:** Strict typing, TDD, automated Jest and Flutter test suites, and widget/component isolation.
 - 💬 **Collaborate With Me:** Open for contract development, enterprise mobile consulting, and high-growth startup builds.
 
 ---
@@ -68,9 +68,10 @@ Production-grade codebases built with clean architecture, strict typing, and com
 
 | Application | Highlights & Capabilities | Tech Stack | Status |
 | :--- | :--- | :--- | :---: |
-| 💳 **[PennyWise](https://github.com/trydigital2/pennywise-finance-mobile-app)**<br>*(Personal Finance)* | • Multi-account ledger with integer paise currency arithmetic<br>• Real-time category budget tracking & warning thresholds<br>• RFC 4180 CSV financial statement export engine<br>• 50/30/20 budget framework & compound wealth projections<br>• **55+ automated unit tests** (100% pass) | React Native<br>TypeScript<br>Redux Toolkit<br>Expo SDK<br>Jest | ![Active](https://img.shields.io/badge/Production-Passing-10B981?style=flat-square) |
-| 🏃 **[HealthProject](https://github.com/trydigital2/health-wellness-app)**<br>*(Health & Fitness)* | • Physiological recovery index and sleep score analyzer<br>• Body composition engine: BMI, Mifflin-St Jeor BMR & TDEE<br>• Personalized daily hydration target & fluid pacing tracker<br>• Cardio, strength, HIIT & flexibility tracking<br>• **46+ automated unit tests** (100% pass) | React Native<br>TypeScript<br>Redux Toolkit<br>Expo<br>Native SVG | ![Active](https://img.shields.io/badge/Production-Passing-10B981?style=flat-square) |
-| 🏡 **[EstateEase](https://github.com/trydigital2/estate-ease-mobile-app)**<br>*(Real Estate)* | • Fixed-rate mortgage EMI and 28/36 DTI affordability calculator<br>• Investment ROI engine: Cap Rate, Gross & Net Rental Yield<br>• Neighborhood livability matrix & walkability commute estimator<br>• Property discovery feeds, tour scheduler & broker profiles | React Native<br>TypeScript<br>Expo<br>Worklets<br>Design Tokens | ![Active](https://img.shields.io/badge/Production-Passing-10B981?style=flat-square) |
+| 🧘 **[ZenFit](https://github.com/trydigital2/flutter-zenfit-fitness)**<br>*(Mindful Fitness & Wellness)* | • 20 Workouts across HIIT, Strength, Yoga, Cardio & Stretching<br>• Calorie & macro nutrition tracker with 21 foods & meal logging<br>• Box breathing timer & mindfulness meditation audio player<br>• Interactive fl_chart activity rings & 7-day habit streak engine<br>• SharedPreferences offline persistence & full test suite | **Flutter**<br>**Dart**<br>GetX<br>fl_chart<br>Google Fonts | ![Active](https://img.shields.io/badge/Flutter-Passing-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| 💳 **[PennyWise](https://github.com/trydigital2/pennywise-finance-mobile-app)**<br>*(Personal Finance)* | • Multi-account ledger with integer paise currency arithmetic<br>• Real-time category budget tracking & warning thresholds<br>• RFC 4180 CSV financial statement export engine<br>• 50/30/20 budget framework & compound wealth projections<br>• **55+ automated unit tests** (100% pass) | **React Native**<br>**TypeScript**<br>Redux Toolkit<br>Expo SDK<br>Jest | ![Active](https://img.shields.io/badge/React_Native-Passing-10B981?style=flat-square&logo=react&logoColor=white) |
+| 🏃 **[HealthProject](https://github.com/trydigital2/health-wellness-app)**<br>*(Health & Fitness)* | • Physiological recovery index and sleep score analyzer<br>• Body composition engine: BMI, Mifflin-St Jeor BMR & TDEE<br>• Personalized daily hydration target & fluid pacing tracker<br>• Cardio, strength, HIIT & flexibility tracking<br>• **46+ automated unit tests** (100% pass) | **React Native**<br>**TypeScript**<br>Redux Toolkit<br>Expo<br>Native SVG | ![Active](https://img.shields.io/badge/Production-Passing-10B981?style=flat-square) |
+| 🏡 **[EstateEase](https://github.com/trydigital2/estate-ease-mobile-app)**<br>*(Real Estate)* | • Fixed-rate mortgage EMI and 28/36 DTI affordability calculator<br>• Investment ROI engine: Cap Rate, Gross & Net Rental Yield<br>• Neighborhood livability matrix & walkability commute estimator<br>• Property discovery feeds, tour scheduler & broker profiles | **React Native**<br>**TypeScript**<br>Expo<br>Worklets<br>Design Tokens | ![Active](https://img.shields.io/badge/Production-Passing-10B981?style=flat-square) |
 
 ---
 
@@ -92,14 +93,16 @@ Production-grade codebases built with clean architecture, strict typing, and com
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/GetX-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
   <img src="https://img.shields.io/badge/BLoC_/_Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC / Provider" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/React_Navigation-6B46C1?style=for-the-badge&logo=react&logoColor=white" alt="React Navigation" />
   <img src="https://img.shields.io/badge/Async_Storage-4B5563?style=for-the-badge&logo=databricks&logoColor=white" alt="AsyncStorage" />
 </p>
 
 #### Testing, Quality & Tooling
 <p>
+  <img src="https://img.shields.io/badge/Flutter_Test-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Test" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
@@ -117,7 +120,7 @@ Production-grade codebases built with clean architecture, strict typing, and com
 2. **Zero-Defect Type Safety:** Every model, state transition, and API contract is strictly typed in TypeScript and Dart.
 3. **Sub-Penny Financial Accuracy:** Avoid floating-point arithmetic pitfalls by storing ledger values in integer paise.
 4. **Fluid 60 FPS Micro-Interactions:** Carefully tailored animations, safe-area boundary handling, and clean responsive design.
-5. **Offline-First Resilience:** Local persistence ensures an uninterrupted user experience with background synchronization.
+5. **Offline-First Resilience:** Local persistence (SharedPreferences / AsyncStorage) ensures an uninterrupted user experience.
 
 ---
 
