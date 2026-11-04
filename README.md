@@ -7,7 +7,7 @@
 
   <p align="center">
     <strong>Senior Cross-Platform Mobile Engineer & Application Architect</strong><br>
-    Crafting high-performance, native-grade applications with <strong>Flutter (Dart)</strong> & <strong>React Native (TypeScript)</strong>.
+    Crafting high-performance, native-grade applications with <strong> Flutter (Dart)</strong> & <strong>React Native (TypeScript)</strong>.
   </p>
 
   <!-- Quick Badges -->
