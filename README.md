@@ -36,29 +36,20 @@ I am a product-focused mobile software engineer passionate about building fluid,
 
 ### 📊 GitHub Activity & Real-Time Statistics
 
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/trydigital2">
-          <img src="https://github-readme-stats.vercel.app/api?username=trydigital2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Trydigital's GitHub Stats" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/trydigital2">
-          <img src="https://streak-stats.demolab.com/?user=trydigital2&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://github.com/trydigital2">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trydigital2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/trydigital2">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=trydigital2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Trydigital's GitHub Stats" height="190" />
+  </a>
+  <a href="https://github.com/trydigital2">
+    <img src="https://streak-stats.demolab.com/?user=trydigital2&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="190" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/trydigital2">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=trydigital2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  </a>
+</p>
 
 ---
 
