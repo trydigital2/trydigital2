@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing SVG Header -->
   <a href="https://github.com/trydigital2">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Trydigital+%F0%9F%91%8B;Flutter+(Dart)+%26+React+Native+(TS)+Specialist;Senior+Cross-Platform+Mobile+Architect;Building+Fintech%2C+Zen+Wellness+%26+Real+Estate+Apps;Clean+Architecture+%26+High-Performance+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=740&lines=Hi%2C+I'm+Trydigital+%F0%9F%91%8B;Flutter+(Dart)+%26+React+Native+(TS)+Specialist;Senior+Cross-Platform+Mobile+Architect;Building+Fintech%2C+Zen+Wellness+%26+Real+Estate+Apps;Clean+Architecture+%26+High-Performance+Engineering" alt="Typing SVG" />
   </a>
 
   <p align="center">
